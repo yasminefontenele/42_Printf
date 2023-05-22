@@ -64,3 +64,4 @@ For detailed information: [**subject of this project**](https://github.com/yasmi
 
 * [understanding ft_printf](https://www.youtube.com/watch?v=Hb2m7htiKWM)
 * [va_arg, va_copy, va_end, va_start](https://learn.microsoft.com/pt-br/cpp/c-runtime-library/reference/va-arg-va-copy-va-end-va-start?view=msvc-170)
+* [Ft_printf tutorial](https://csnotes.medium.com/ft-printf-tutorial-42project-f09b6dc1cd0e)
